@@ -10,7 +10,6 @@
 - 🧠 I'm studying Software Engineering at Rajabhat University Nakhon Pathom.
 - 🌍 I'm based in Kanchanaburi
 - ✉️ You can contact me at Suppha1ak.sm@outlook.com
-- 💬 I have a passion for web animation.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiinushil3a&label=Profile%20views&color=0e75b6&style=flat" alt="aiinushil3a" /> </p>
